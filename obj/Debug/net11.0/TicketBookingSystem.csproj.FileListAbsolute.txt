@@ -1,0 +1,16 @@
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.exe
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.deps.json
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.runtimeconfig.json
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.runtimeconfig.dev.json
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.dll
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\bin\Debug\net11.0\TicketBookingSystem.pdb
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.AssemblyInfoInputs.cache
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.AssemblyInfo.cs
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.csproj.CoreCompileInputs.cache
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.dll
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\refint\TicketBookingSystem.dll
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.pdb
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBookingSystem.genruntimeconfig.cache
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\ref\TicketBookingSystem.dll
+D:\NLXDPM\CT240T-Lab4-TicketBookingSystem\obj\Debug\net11.0\TicketBo.BC279E72.Up2Date
